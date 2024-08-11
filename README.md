@@ -1,6 +1,8 @@
 # Price Prediction of Local Agriculture Products
+Accurate price forecasting is essential to ensure the stable and efficient supply of local specialty products such as cabbage, radish, tangerines, and more.
 
 ## Description
+I have been developing an effective AI model with the goal of augmenting of accuracy for price prediction and uncovering valuable insights related to these products.
 
 ### Dataset Information
 **1. train.csv**
